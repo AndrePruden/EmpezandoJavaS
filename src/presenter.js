@@ -2,7 +2,7 @@ import multiplicar from "./multiplicador";
 import sumar from "./sumador";
 
 const first = document.querySelector("#primer-numero");
-const primero = document.querySelector("#primero-num");
+const primero = document.querySelector("#primer-num");
 const second = document.querySelector("#segundo-numero");
 const segundo = document.querySelector("#segundo-num");
 const form = document.querySelector("#sumar-form");
